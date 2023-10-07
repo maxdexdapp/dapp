@@ -1031,15 +1031,15 @@ margin: 0 auto;
 
 .whitepaper_cont {
   width: 100%;
-  height: 80%;
+  height: 100%;
 
   font-size: 24px;
   font-weight: 100;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 
   vertical-align: middle;
-  padding-left: 60px;
-  padding-top: 20px;
+  padding: 60px;
+
 
   border: 0px solid #350c81;
   text-align: left;
@@ -1075,7 +1075,7 @@ margin: 0 auto;
 }
 
 .whitepaper_download input {
-  margin: 60px;
+  margin: 20px;
   margin-left: 60px;
 }
 

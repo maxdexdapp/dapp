@@ -407,13 +407,16 @@ export function Main({ dappjs, t }) {
           </div>
         </div>
 
-
-   
-<div className="yt_video">
-<iframe id="ytplayer" type="text/html" 
-  src="https://www.youtube.com/embed/9OvkMNeK5e4?autoplay=1&origin=http://example.com"
-  frameborder="0"></iframe>
-</div>
+        <div className="yt_video">
+          <iframe
+            id="ytplayer"
+            src="https://www.youtube.com/embed/9OvkMNeK5e4?si=VJngf5uQRDjYPT0K"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
       </div>
 
       <div id="tokenomics">
