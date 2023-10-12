@@ -686,6 +686,13 @@ export function Main({ dappjs, t }) {
         </div>
 
         <div className="links">
+        <a
+            className="adjust_img"
+            href="https://t.me/maxdexapp"
+            target="_blank"
+          >
+             <img src="telegram.png"></img>
+          </a>
           <a
             className="adjust_img"
             href="https://twitter.com/maxdexdapp"
